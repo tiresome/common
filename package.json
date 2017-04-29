@@ -1,0 +1,23 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiresome/common.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiresome/common/issues"
+  },
+  "homepage": "https://github.com/tiresome/common#readme",
+  "dependencies": {
+    "es6-promise": "^4.1.0",
+    "mongodb": "^2.2.25"
+  }
+}
